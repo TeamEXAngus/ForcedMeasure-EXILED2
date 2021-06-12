@@ -1,0 +1,46 @@
+forced_measure:
+  # Whether or not the plugin should be enabled on this server.
+  is_enabled: true
+  
+  # A list of doors and how long they should be locked for.
+  # This contains every possible option
+  doors_vs_times:
+    Scp012: 30 # The door to SCP-012 will be locked for 30 seconds
+    Scp012Bottom: 9.9 # The door at the bottom of SCP-012 will be locked for 9.9 seconds
+    Scp012Locker: 20
+    Scp049Armory: 80
+    Scp079First: 90
+    Scp079Second: 30
+    Scp096: 10
+    Scp106Bottom: 80
+    Scp106Primary: 80
+    Scp106Secondary: 80
+    Scp173Gate: 70
+    Scp173Connector: 50
+    Scp173Armory: 100
+    Scp173Bottom: 50
+    GR18: 80
+    Scp914: 20
+    CheckpointEntrance: 30
+    CheckpointLczA: 20
+    CheckpointLczB: 60
+    EntranceDoor: 10
+    EscapePrimary: 100
+    EscapeSecondary: 50
+    ServersBottom: 70
+    GateA: 30
+    GateB: 80
+    HczArmory: 20
+    HeavyContainmentDoor: 90
+    HID: 50
+    HIDLeft: 10
+    HIDRight: 100
+    Intercom: 10
+    LczArmory: 10
+    LczCafe: 10
+    LczWc: 80
+    LightContainmentDoor: 50
+    NukeArmory: 50
+    NukeSurface: 60
+    PrisonDoor: 70
+    SurfaceGate: 90
